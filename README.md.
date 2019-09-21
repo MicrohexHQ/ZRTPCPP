@@ -1,5 +1,7 @@
 ## GNU ZRTP C++
 
+![](https://github.com/lipsch0/ZRTPCPP/blob/master/AI/ArtBoard%20Image%20(431).jpg)
+
 This package provides a library that adds ZRTP support to the GNU
 ccRTP stack and serves as library for other RTP stacks (PJSIP, GStreamer).
 Phil Zimmermann developed ZRTP to allow ad-hoc, easy to
